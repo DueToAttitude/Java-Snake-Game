@@ -10,5 +10,7 @@
 <li> keyboard "a", "s", "d", "w" to control direction</li>
 </ul>
 
+try startup.bat
+
 ###attention
 <p>only used for studying and communicating, as a new learner, welcome to make your suggestions</p>
